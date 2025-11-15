@@ -78,7 +78,7 @@ El proyecto sigue un modelo cliente-servidor:
 
 ## 🛠️ Modo de trabajo (Scrum + Kanban)
 
-Usamos un tablero digital (Trello/Jira/ClickUp) con estas columnas:
+Usamos un tablero digital (Jira) con estas columnas:
 
 - Backlog  
 - To Do  
