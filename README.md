@@ -104,7 +104,41 @@ Usamos un tablero digital (Jira) con estas columnas:
 - Documentación técnica:  
   [pendiente]
 
----
+🌿 Ramas activas del proyecto
+
+El desarrollo del proyecto se organiza mediante ramas especializadas. Cada funcionalidad importante se desarrolla en una rama feature/ distinta:
+
+Ramas principales:
+
+main → versión estable
+
+dev → integración de funcionalidades
+
+Ramas de funcionalidad (feature):
+
+feature/login
+
+feature/registro
+
+feature/busqueda-jugadores
+
+feature/favoritos
+
+feature/presupuesto
+
+feature/detalle-jugador
+
+feature/estadisticas
+
+feature/trayectoria 
+
+feature/backend-estructura
+
+feature/frontend-estructura
+
+feature/seguridad (si la creas después)
+
+Cada rama se fusiona (Pull Request) primero en dev y, cuando esté revisada, se pasa a main.
 
 
 
